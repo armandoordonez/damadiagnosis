@@ -1,0 +1,6 @@
+{
+  "name": "DAMA Data Governance Navigator",
+  "description": "Herramienta ejecutiva de diagnóstico de madurez DAMA-DMBOK y formulación de hoja de ruta estratégica de gobierno de datos para maestrías de negocios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
